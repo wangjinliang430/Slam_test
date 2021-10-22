@@ -7,7 +7,7 @@ Created on Wed Aug 11 10:29:49 2021
 """
 import matplotlib.pyplot as plt
 import numpy as np
-import pickle
+# import pickle
 import laspec.normalization as normalize
 from laspec.mrs import MrsFits, MrsSource
 mf = MrsFits("/Users/wangjinliang/Downloads/med-58535-HIP25252H332601_sp11-167.fits")
